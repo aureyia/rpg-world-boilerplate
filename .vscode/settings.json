@@ -28,24 +28,15 @@
   "prettier.singleQuote": false,
   "foam.graph.style": {
     "node": {
-        "past:affiliation": "#76D7C4",
-        "past:character": "#F5A5D8",
-        "past:continent": "#229954",
-        "past:country": "#27AE60",
-        "past:player": "#5AA2D3",
-        "past:province": "#52BE80",
-        "past:session-note": "#85929E",
-        "past:ship": "#A569BD",
-        "past:town": "#7DCEA0",
-        "present:affiliation": "#76D7C4",
-        "present:character": "#F5A5D8",
-        "present:continent": "#229954",
-        "present:country": "#27AE60",
-        "present:player": "#5AA2D3",
-        "present:province": "#52BE80",
-        "present:session-note": "#85929E",
-        "present:ship": "#A569BD",
-        "present:town": "#7DCEA0",
+        "affiliation": "#76D7C4",
+        "character": "#F5A5D8",
+        "continent": "#229954",
+        "country": "#27AE60",
+        "player": "#5AA2D3",
+        "province": "#52BE80",
+        "session-note": "#85929E",
+        "ship": "#A569BD",
+        "town": "#7DCEA0",
     }
   }
 }
