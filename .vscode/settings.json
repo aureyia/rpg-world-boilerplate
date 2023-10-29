@@ -1,0 +1,51 @@
+{
+  "editor.minimap.enabled": false,
+  "editor.wrappingIndent": "indent",
+  "editor.overviewRulerBorder": false,
+  "editor.lineHeight": 24,
+  "[markdown]": {
+    "editor.quickSuggestions": {
+      "comments": "on",
+      "strings": "on",
+      "other": "on"
+    }
+  },
+  "files.defaultLanguage": "markdown",
+  "files.exclude": {
+    "**/node_modules": true
+  },
+  "files.watcherExclude": {
+    "**/node_modules": true
+  },
+  "foam.edit.linkReferenceDefinitions": "off",
+  "foam.openDailyNote.directory": "journal",
+  "foam.openDailyNote.titleFormat": "fullDate",
+  "git.enableSmartCommit": true,
+  "git.postCommitCommand": "sync",
+  "markdown.preview.breaks": true,
+  "pasteImage.path": "${projectRoot}/attachments",
+  "pasteImage.showFilePathConfirmInputBox": true,
+  "prettier.singleQuote": false,
+  "foam.graph.style": {
+    "node": {
+        "past:affiliation": "#76D7C4",
+        "past:character": "#F5A5D8",
+        "past:continent": "#229954",
+        "past:country": "#27AE60",
+        "past:player": "#5AA2D3",
+        "past:province": "#52BE80",
+        "past:session-note": "#85929E",
+        "past:ship": "#A569BD",
+        "past:town": "#7DCEA0",
+        "present:affiliation": "#76D7C4",
+        "present:character": "#F5A5D8",
+        "present:continent": "#229954",
+        "present:country": "#27AE60",
+        "present:player": "#5AA2D3",
+        "present:province": "#52BE80",
+        "present:session-note": "#85929E",
+        "present:ship": "#A569BD",
+        "present:town": "#7DCEA0",
+    }
+  }
+}
